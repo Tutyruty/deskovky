@@ -1,0 +1,4 @@
+Osadníci z Katanu;true;3
+Monopoly;false;2
+World of Warcraft;true;3
+Speed Cups;false;1
